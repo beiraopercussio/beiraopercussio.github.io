@@ -110,36 +110,6 @@ app.controller('BeiriController', ['$scope', '$document', '$http', 'hotkeys', '$
         }
     });
 
-    this.contact = function(name, phone, mail, msg) {
-        var DEST = 'tonipenyaalba@gmail.com';
-        console.log({
-                    from: mail,
-                    to: DEST,
-                    subject: 'Missatge de ' + name + ' ' + phone,
-                    text: msg
-                });
-
-		$http
-            .post('https://api.mailjet.com/v3/send/message'
-                , {
-                    from: mail,
-                    to: DEST,
-                    subject: 'Missatge de ' + name + ' ' + phone,
-                    body: msg
-                })
-            .success(function(data, status, headers, config) {
-				// this callback will be called asynchronously
-				// when the response is available
-				console.log('yes!');
-
-			})
-			.error(function(data, status, headers, config) {
-				// called asynchronously if an error occurs
-				// or server returns response with an error status.
-				console.log('no!');
-			});
-	};
-
     this.collapseYears = function(exceptionYear) {
         for (var i = 0; i < $scope.years.length; i++) {
             if ($scope.years[i].year != exceptionYear) {
