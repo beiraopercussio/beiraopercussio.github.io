@@ -34,6 +34,25 @@ var translationsCA = {
     ABOUT_DATE: 'Barcelona / Sagrada Família / 25 d\'Abril, 2013'
 };
 
+var translationsES = {
+	PHOTOS: 'Fotos',
+	VIDEOS: 'Videos',
+	CONTACT: 'Contacto',
+	ABOUT_US: 'Qué es Beirão',
+    	GIGS: 'bolos',
+    	FANS: 'fans',
+    	BROKEN_DRUM_STICK: 'baquetas partidas',
+    YOUR_GIG: {
+        TITLE: 'Tu bolo',
+        HEADING: 'Nuestra proxima actuación puede ser la tuya.',
+        EMAIL: 'Envianos un mail',
+        CALL: 'Llámanos!'
+    },
+    ABOUT_TEXT: 'Beirão Percussió es un proyecto que nace en el barrio de la Sagrada Família de Barcelona en el año 2013 con la intención de animar al público a través de ritmos llenos de energía y vitalidad. Nuestro repertorio está inspirado en la música brasileña, reflejando además, un toque personal y un estilo propio. Somos un grupo de alrededor de 20 componentes dispuestos a convertir cualquier evento en una auténtica fiesta. <br><br>Como grupo de percusión, estamos dispuestos a participar en todo tipo de eventos; desde los tradicionalmente acompañados de percusión en Cataluña (“correfocs” y “tabaladas”), hasta ruas de todo tipo, celebraciones privadas, inauguraciones, clases deportivas, conciertos, etc… Nos apasiona hacer disfrutar a todos los públicos sin importar el formato del evento. Nuestras actuaciones se adaptan a cualquier ocasión que se quiera acompañar de una sonoridad especial.',
+    ABOUT_DATE: 'Barcelona / Sagrada Família / 25 de Abril, 2013'
+};
+
+
 var app = angular.module('BeiriPage', ['pascalprecht.translate',
                                         'youtube-embed',
                                         'duScroll',
@@ -44,6 +63,7 @@ var app = angular.module('BeiriPage', ['pascalprecht.translate',
 app.config(['$translateProvider', function ($translateProvider) {
     $translateProvider.translations('en', translationsEN);
     $translateProvider.translations('ca', translationsCA);
+    $translateProvider.translations('es', translationsES);
     $translateProvider.preferredLanguage('ca');
     $translateProvider.fallbackLanguage('ca');
 }]);
@@ -79,11 +99,12 @@ app.controller('BeiriController', ['$scope', '$document', '$http', 'hotkeys', '$
     ctrl.carouselType = '';
 
     ctrl.coverPictures = [
-        'img/cover/slide1.jpg',
-        'img/cover/slide2.jpg',
-        'img/cover/slide3.jpg',
+        'img/cover/slide6.jpg',
+        'img/cover/slide10.jpg',
+        'img/cover/slide11.jpg',
         // 'img/cover/slide4.jpg',
-        'img/cover/slide5.jpg'
+        //'img/cover/slide7.jpg',
+        'img/cover/slide9.jpg'
     ];
 
     hotkeys.add({
@@ -262,8 +283,9 @@ app.controller('BeiriController', ['$scope', '$document', '$http', 'hotkeys', '$
     }
 
     function loadLikes() {
-        $http.get('https://graph.facebook.com/fql?q=SELECT%20fan_count%20FROM%20page%20WHERE%20page_id=410888445612474')
-            .success(function (data) {
+        //$http.get('https://graph.facebook.com/fql?q=SELECT%20fan_count%20FROM%20page%20WHERE%20page_id=410888445612474')
+        $http.get('https://graph.facebook.com/pepsius/?fields=fan_count&access_token=1234567890')
+	    .success(function (data) {
                 $scope.likes = data.data[0].fan_count;
             })
             .error(function () {
