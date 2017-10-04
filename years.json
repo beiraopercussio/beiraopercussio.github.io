@@ -1,17 +1,350 @@
-﻿[
-    {
-        "year": 2015,
-        "ngigs": 18,
-        "coverpic": "img/2015.jpg",
+﻿﻿[
+	 {
+	 	 "year": 2017,
+	 	 "ngigs": 18,
+        "coverpic": "img/2017.jpg",
         "gigs": [
+            {
+                "title_ca": "Festes de la Mercè",
+                "title_en": "...",
+                "title_es": "Fiestas de la Mercè",
+                "date_ca": "Barcelona / 22 i 23 de Setembre de 2017",
+                "date_en": "Barcelona / 22th 23th September 2017",
+                "date_es": "Barcelona / 22 y 23 de Septiembre de 2017",
+                "content": {
+                    "desc_ca": "Com cada any, toquem per les festes majors de Barcelona. Omplim de ritme i dansa els carrers més cèntrics de la nostra bonica ciutat.",
+                    "desc_en": "...",
+                    "desc_es": "Como cada año, tocamos en las Fiestas Mayores de Barcelona. Llenamos de ritmo y danza las calles más céntricas de nuestra bonita ciudad."
+                }
+            },
+            {
+                "title_ca": "Coros de la Barceloneta",
+                "title_en": "...",
+                "title_es": "Coros de la Barceloneta",
+                "date_ca": "Barcelona / 3 i 5 de Juny de 2017",
+                "date_es": "Barcelona / 3 y 5 de Junio de 2017",
+                "content": {
+                    "desc_ca": "Tornem a la festa més popular de la Barceloneta!! Seguim portant l’alegria i la festa, fent grans “temazos” acompanyats de vents!",
+                    "desc_en": "...",
+                    "desc_es": "Volvemos a la fiesta más popular de la Barceloneta! Seguimos llevando la alegria y la fiesta, tocando grandes “temazos” acompañados de vientos!"
+                }                   
+            },
+            {
+                "title_ca": "Comunió al Bon Pastor",
+                "title_en": "...",
+                "title_es": "Comunión en el Bon Pastor",
+                "date_ca": "Barcelona / 28 de Maig de 2017",
+                "date_en": "..",
+                "date_es": "Barcelona / 28 de Mayo de 2017",
+                "content": {
+                    "desc_ca": "",
+                    "desc_en": "...",
+                    "desc_es": ""
+                }
+            },
+            {
+                "title_ca": "4t Aniversari de Beirão",
+                "title_en": "...",
+                "title_es": "4º Aniversario de Beirão",
+                "date_ca": "Barcelona / 29 d'Abril de 2017",
+                "date_en": "..",
+                "date_es": "Barcelona / 29 de Abril de 2017",
+                "content": {
+                    "desc_ca": "Estem d’aniversari!! I ho celebrem al nostre estimat barri. Aquesta vegada, convidem Batida do Tambor i Batubaroa. Un gran dia de sol i percussió pels carrers de la Sagrada Família.",
+                    "desc_en": "...",
+                    "desc_es": "Estamos de Aniversario!! Y lo celebramos en nuestro querido barrio. En esta ocasión, invitamos a Batida do Tambor y Batubaroa. Un gran día de sol y percusión por las calles de la Sagrada Família."
+                }
+            },
+            {
+                "title_ca": "Carnavalada de la Barceloneta",
+                "title_en": "...",
+                "title_es": "Carnavalada de la Barceloneta",
+                "date_ca": "Barcelona / 5 de Març de 2017",
+                "date_en": "Barcelona / 5th March 2017",
+                "date_es": "Barcelona / 5 de Marzo de 2017",
+                "content": {
+                    "desc_ca": "I seguim de Carnaval...ara més a prop de casa i de la platja. Tornem al barri de la Barceloneta, acompanyant de nou el Coro dels Afortunats a la rua de la Carnavalada, la festa de Carnaval d’aquest barri barceloní. Festa, gresca...i una bona preparació per Coros!",
+                    "desc_en": "...",
+                    "desc_es": "I seguimos de Carnaval...ahora más cerca de casa y de la playa. Volvemos al barrio de la Barceloneta, acompañando de nuevo al Coro de “Els Afortunats” en la rua de la Carnavalada, la fiesta de Carnaval de este barrio barcelonés. Fiesta, alegria…. Y una buena preparación para los Coros!"
+                }
+            },
+            {
+                "title_ca": "Carnaval a Monzón",
+                "title_en": "...",
+                "title_es": "Carnaval de Monzón",
+                "date_ca": "Monzón / 11 de Febrer de 2017",
+                "date_en": "Monzón / 11th February 2017",
+                "date_es": "Monzón / 11 de Febrero de 2017",
+                "content": {
+                    "desc_ca": "Beirão se’n va de viatge! Per celebrar l’inici del Carnaval, marxem a Monzón (Huesca) disfressats de mosques a escalfar amb ritmes i balls la rua del poble.",
+                    "desc_en": "...",
+                    "desc_es": "Beirão se va de viaje! Para celebrar el inicio del Carnaval, vamos a Monzón (Huesca) disfrazados de moscas, para calentar con ritmos y baile la rua del pueblo!"
+                }
+            }
+         ] 	 
+	 },
+	 {
+	 	 "year": 2016,
+	 	 "ngigs": 30,
+        "coverpic": "img/2016.jpg",
+        "gigs": [
+            {
+                "title_ca": "Festes de la Mercè",
+                "title_en": "...",
+                "title_es": "Fiestas de la Mercè",
+                "date_ca": "Barcelona / 24 i 25 de Setembre de 2016",
+                "date_en": "Barcelona / 24th 25th September 2016",
+                "date_es": "Barcelona / 24 y 25 de Septiembre de 2016",
+                "content": {
+                    "desc_ca": "Com cada any, toquem per les festes majors de Barcelona. Omplim de ritme i dansa els carrers més cèntrics de la nostra bonica ciutat.",
+                    "desc_en": "...",
+                    "desc_es": "Como cada año, tocamos en las Fiestas Mayores de Barcelona. Llenamos de ritmo y danza las calles más céntricas de nuestra bonita ciudad.",
+                    "pictures": {
+                        "thumbnails": [
+                           "img/gigs/fullsize/Merce_1.JPG",
+                           "img/gigs/fullsize/Merce_2.JPG"
+                        ],
+                        "fullsize": [
+                           "img/gigs/fullsize/Merce_1.JPG",
+                           "img/gigs/fullsize/Merce_2.JPG"
+                        ]
+                    }
+                }
+            },
             {
                 "title_ca": "Carnaval de secà",
                 "title_en": "Carnaval de secà",
+                "title_es": "Carnaval de secà",
+                "date_ca": "Cervera / 9 de Juliol de 2016",
+                "date_en": "Cervera / 9 July 2016",
+                "date_es": "Cervera / 9 de Julio de 2016",
+                "content": {
+                    "desc_ca": "Per segon any, tornem a participar al Carnaval més fresc de Catalunya, el Carnaval de Secà de Cervera. Aquesta vegada, disfressats amb faldilles i armilles ben colorides, al més pur estil caribeny. Un gran dia de festa i diversió pels carrers d’aquesta Aanimada població catalana.",
+                    "desc_en": "...",
+                    "desc_es": "Por segundo año, participamos de nuevo al Carnaval más fresco de toda Cataluña, el Carnaval de Secà de Cervera. En esta ocasión, con faldas y chalecos bien coloridos al más puro estilo caribeño. Un gran día de fiesta y diversión por las calles de esta animada población catalana."
+                }
+            },
+            {
+                "title_ca": "Correbars de Cunit",
+                "title_en": "...",
+                "title_es": "Correbars de Cunit",
+                "date_ca": "Cunit / 8 de Juliol de 2016",
+                "date_en": "Cunit / 8 July 2016",
+                "date_es": "Cunit / 8 de Julio de 2016",
+                "content": {
+                    "desc_ca": "Amb l’arribada de l’estiu, comencen les festes majors i Beirão Percussió no dubta en animar els carrers de Cunit durant el correbars.",
+                    "desc_en": "...",
+                    "desc_es": "Con la llegada del verano empiezan las fiestas mayores y Beirão percussio no duda en animar las calles de Cunit en el pasacalles nocturno."
+                }
+            },
+            {
+                "title_ca": "Festes de Sant Joan a Pezenas",
+                "title_en": "...",
+                "title_es": "Fiestas de San Juan en Pezenas",
+                "date_ca": "Pezenas (França) / 25 i 26 de Juny de 2016",
+                "date_en": "Pezenas (France) / 25 & 26 June 2016",
+                "date_es": "Pezenas (Francia) / 25 y 26 de Junio de 2016",
+                "content": {
+                    "desc_ca": "Per primer cop, Beirão Percussió porta els seus ritmes més enllà de la frontera. Acompanyant a la Farfolla, participem a la tradicional festa de Sant Joan que celebra el poble de Pezenas, gaudint de l’espectacle de foc i aigua i aportant els nostres ritmes a aquesta festa.",
+                    "desc_en": "...",
+                    "desc_es": "Por primera vez Beirão lleva sus ritmos más allá de la frontera. Acompañando al dragón de la Sagrada Família participamos en la tradicional fiesta de San Juan que celebra la localidad de Pezenas, con un espectáculo de fuego y agua al que aportamos nuestra música.",
+		              "pictures": {
+                        "thumbnails": [
+                           "img/gigs/thumbnails/nail_pezenas_1.jpg",
+                           "img/gigs/thumbnails/nail_pezenas_2.jpg",
+                           "img/gigs/thumbnails/nail_pezenas_3.jpg",
+                           "img/gigs/thumbnails/nail_pezenas_4.jpg"
+                        ],
+                        "fullsize": [
+                           "img/gigs/fullsize/pezenas_1.jpg",
+                           "img/gigs/fullsize/pezenas_2.jpg",
+                           "img/gigs/fullsize/pezenas_3.jpg"
+                        ]
+                    }
+                }
+            },
+            {
+                "title_ca": "Coros de la Barceloneta",
+                "title_en": "...",
+                "title_es": "Coros de la Barceloneta",
+                "date_ca": "Barcelona / 14 i 16 de Maig de 2016",
+                "date_en": "Barcelona / 14 & 16 May 2016",
+                "date_es": "Barcelona / 14 y 16 de Mayo de 2016",
+                "content": {
+                    "desc_ca": "La festa de Coros de la Barceloneta és una de les festes més esperades de la ciutat comtal. Beirão Percussió hi participem, acompanyats d’un grup de vents, per animar els carrers i els integrants de l’agrupacio coral Els afortunats en aquesta festa tan arrelada al barri de la Barceloneta.",
+                    "desc_en": "...",
+                    "desc_es": "La fiesta de los Coros de la Barceloneta es una de las más esperadas de la ciudad condal. Beirão Percussió participamos, junto a una banda de vientos, animando las calles y a los integrantes del coro ACH Els afortunats en esta fiesta tan arraigada en el barrio de la Barceloneta.",
+		              "pictures": {
+                        "thumbnails": [
+                           "img/gigs/fullsize/Coros_2016_1.jpg",
+                           "img/gigs/fullsize/Coros_2016_2.jpg",
+                           "img/gigs/fullsize/Coros_2016_3.jpg"
+                        ],
+                        "fullsize": [
+                           "img/gigs/fullsize/Coros_2016_1.jpg",
+                           "img/gigs/fullsize/Coros_2016_2.jpg",
+                           "img/gigs/fullsize/Coros_2016_3.jpg"
+                        ]
+                    }
+                }
+            },
+            {
+                "title_ca": "Aniversari de Beirão",
+                "title_en": "...",
+                "title_es": "Aniversario de Beirão",
+                "date_ca": "Barcelona / 17 d'Abril de 2016",
+                "date_en": "Barcelona / 17 April 2016",
+                "date_es": "Barcelona / 17 de Abril de 2016",
+                "content": {
+                    "desc_ca": "A poc a poc, anem sumant anys i, per aquest tercer aniversari, Beirão ho celebra amb la col·laboració d’altres grups de percussió convidats per fer una autèntica festa pels carrers de Sagrada Família. L’avinguda Gaudí es va omplint de ritme a mesura que avança la cercavila i no s’atura fins acabar amb uns lluïments estàtics al davant de la Sagrada Família.",
+                    "desc_en": "...",
+                    "desc_es": "Poco a poco sumamos años de vida y este tercer aniversario volvemos a celebrarlo con la colaboracion de otros grupos invitados, para llenar de fiesta las calles de Sagrada Família. La avenida Gaudí se llena de ritmo a nuestro paso, para finalizar con una serie de espectáculos estáticos delante del templo.",
+		              "pictures": {
+                        "thumbnails": [
+                           "img/gigs/thumbnails/nail_3aniversari_1.jpg",
+                           "img/gigs/thumbnails/nail_3aniversari_2.jpg",
+                           "img/gigs/thumbnails/nail_3aniversari_3.jpg"
+                        ],
+                        "fullsize": [
+                           "img/gigs/fullsize/3aniversari_1.jpg",
+                           "img/gigs/fullsize/3aniversari_2.jpg",
+                           "img/gigs/fullsize/3aniversari_3.jpg"
+                        ]
+                    }
+                }
+            },            
+            {
+                "title_ca": "Carnaval de Sitges",
+                "title_en": "Sitges carnival",
+                "title_es": "Carnaval de Sitges",
+                "date_ca": "Barcelona / 7 i 8 de Febrer de 2016",
+                "date_en": "Barcelona / 7, 8 February 2016",
+                "date_es": "Barcelona / 7 y 8 de Febrero de 2016",
+                "content": {
+                    "desc_ca": "Beirão Percussió tenim l’oportunitat de participar en el Carnaval de Sitges acompanyant a la comparsa 1, 2, 3 i..., la comparsa més gran de la festa. Desfilem tan en la Rua de la Disbauxa de diumenge com en la de l’Extermini de dimarts, omplint de ritme els carrers.",
+                    "desc_en": "...",
+                    "desc_es": "Beirão Percussió participamos en el Carnaval de Sitges, uno de los más conocidos de Cataluña. Acompañamos a la comparsa “1,2,3 i…”, la mayor comparsa de la fiesta, desfilando el domingo y el martes en las rúas de la disbauxa y el exterminio, y llenando las calles de ritmo.",
+		              "pictures": {
+                        "thumbnails": [
+                           "img/gigs/fullsize/carnSitges_2016_1.jpg",
+                           "img/gigs/fullsize/carnSitges_2016_2.jpg",
+                           "img/gigs/fullsize/carnSitges_2016_3.jpg"
+                        ],
+                        "fullsize": [
+                           "img/gigs/fullsize/carnSitges_2016_1.jpg",
+                           "img/gigs/fullsize/carnSitges_2016_2.jpg",
+                           "img/gigs/fullsize/carnSitges_2016_3.jpg"
+                        ]
+                    }
+                }
+            },  
+				{
+                "title_ca": "Carnaval de Nou Barris",
+                "title_en": "Nou Barris carnival",
+                "title_es": "Carnaval de Nou Barris",
+                "date_ca": "Barcelona / 6 de Febrer de 2016",
+                "date_en": "Barcelona / 6 February 2016",
+                "date_es": "Barcelona / 6 de Febrero de 2016",
+                "content": {
+                    "desc_ca": "Carnaval és, per nosaltres, una època de molta activitat. Ens posem la nostra millor disfressa i no dubtem a sumar-nos a aquesta celebració, ja sigui acompanyant escoles, entitats del barri o festes privades. Enguany, sota l’aparença dels personatges del mític videojoc Pacman hem animat la rua de Roquetes i, a continuació, el cercavila central de Nou Barris.",
+                    "desc_en": "...",
+                    "desc_es":"Carnaval es una época de gran actividad para nosotros. Nos ponemos nuestro mejor disfraz y no dudamos en sumarnos a cualquier celebración, ya sea organizada por colegios, entidades y asociaciones o fiestas privadas. Bajo la apariencia del mítico videojuego Pacman animamos de nuevo la rúa de carnaval 2016 de Roquetas y Nou Barris en Barcelona.",
+		              "pictures": {
+                        "thumbnails": [
+                           "img/gigs/fullsize/carnaval_2016_1.jpg",
+                           "img/gigs/fullsize/carnaval_2016_2.jpg",
+                           "img/gigs/fullsize/carnaval_2016_3.jpg"
+                        ],
+                        "fullsize": [
+                           "img/gigs/fullsize/carnaval_2016_1.jpg",
+                           "img/gigs/fullsize/carnaval_2016_2.jpg",
+                           "img/gigs/fullsize/carnaval_2016_3.jpg"
+                        ]
+                    }                      
+                }
+            },
+           {
+                "title_ca": "Trobada de percussió Sant Antoni",
+                "title_en": "...",
+                "title_es": "Encuentro de percusión en Sant Antoni",
+                "date_ca": "Barcelona / 16 de Gener de 2016",
+                "date_en": "Barcelona / 16 January 2016",
+                "date_es": "Barcelona / 16 de Enero de 2016",
+                "content": {
+                    "desc_ca": "Beirão  Percussió participa en la trobada solidària d’enguany a Sant Antoni amb l’objectiu d’ajudar en el recapte d’aliments a diferents punts d’aquest barri.",
+                    "desc_en": "...",
+                    "desc_es":"Beirão Percussió participa en el evento benéfico del barrio de Sant Antoni de Barcelona, con el objetivo de recaudar alimentos en diferentes lugares del barrio.",
+		              "pictures": {
+                        "thumbnails": [
+                           "img/gigs/fullsize/sanAntoni2016_1.jpg",
+                           "img/gigs/fullsize/sanAntoni2016_2.jpg",
+                           "img/gigs/fullsize/sanAntoni2016_3.jpg",
+                           "img/gigs/fullsize/sanAntoni2016_4.jpg"
+                        ],
+                        "fullsize": [
+                           "img/gigs/fullsize/sanAntoni2016_1.jpg",
+                           "img/gigs/fullsize/sanAntoni2016_2.jpg",
+                           "img/gigs/fullsize/sanAntoni2016_3.jpg",
+                           "img/gigs/fullsize/sanAntoni2016_4.jpg"
+                        ]
+                    }
+                }
+            }
+         ] 	 
+	 },
+    {
+        "year": 2015,
+        "ngigs": 36,
+        "coverpic": "img/2015.jpg",
+        "gigs": [
+
+           {
+                "title_ca": "Hola Nadal!",
+                "title_en": "\"Hola Nadal!\"",
+                "title_es": "\"Hola Nadal!\"",
+                "date_ca": "Barcelona / 30 de Desembre de 2015",
+                "date_en": "Barcelona / 30 December 2015",
+                "date_es": "Barcelona / 30 de Diciembre de 2015",
+                "content": {
+                    "desc_ca": "Dins el marc dels actes que organitza l’Ajuntament de Barcelona a Plaça Catalunya per celebrar el Nadal, Beirão Percussió participa d’una jornada d’exhibició de talent jove amb molts altres grups en aquestes dates assenyalades.",
+                    "desc_en": "...",
+                    "desc_es":"En el marco de los eventos organizados por el Ayuntamiento de Barcelona en la Plaza Cataluña para celebrar la Navidad, Beirão Percussió participa en una jornada de exhibición de talento joven junto con otros grupos en estas fechas señaladas.",
+                    "youtube": "_xA97wqKGjM"
+                }
+            },
+
+           {
+                "title_ca": "Cursa de la dona",
+                "title_en": "Woman's race",
+					 "title_es": "Carrera de la mujer",
+                "date_ca": "Barcelona / 8 de Novembre de 2015",
+                "date_en": "Barcelona / 8 November 2015",
+					 "date_es": "Barcelona / 8 de Noviembre de 2015",
+                "content": {
+                    "desc_ca": "Beirão Percussió participem com a grup dinamitzador en la cursa de la dona 2015. Des de l’emplaçament de Vogue a Plaça Universitat donem ànims a totes les participants a seguir corrent per una bona causa.",
+                    "desc_en": "Beirão Percussió...",
+		    			  "desc_es":"Beirão Percussió participamos como grupo dinamizador en la carrera de la mujer 2015 de Barcelona. Des del stand de Vogue en la plaza Universidad animamos a las participantes a seguir corriendo por una buena causa.",
+                    "pictures": {
+                        "thumbnails": [
+                            "img/gigs/thumbnails/cursa_dona_2015_001.jpg"
+                        ],
+                        "fullsize": [
+                           "img/gigs/fullsize/cursa_dona_2015_001.jpg"
+                        ]
+                    }
+                }
+            },
+           {
+                "title_ca": "Carnaval de secà",
+                "title_en": "Carnaval de secà",
+                "title_es": "Carnaval de secà",
                 "date_ca": "Cervera / 11 de Juliol de 2015",
                 "date_en": "Cervera / 11 July 2015",
+ 					 "date_es": "Cervera / 11 de Julio de 2015",
                 "content": {
                     "desc_ca": "Beirão Percussió ens disfressem de Sant Fermins (\"toro\" inclós) per prendre part en el que de ben segur es el carnaval mes esbojarrat del país. Un cop més, el nostre esforç i la nostra empenta es veuen recompensats per part del jurat, qui ens atorga el segon premi com a grup de percussió.",
                     "desc_en": "Beirão Percussió dresses up as Sant Fermin (bull included) in order to take place in the country's craziest carnival. Once again, our hard work and energy are rewarded by the judges, who awards us with the second prize in the category of percussion band.",
+                    "desc_es": "Beirão percussió nos disfrazamos de encierro de San Fermín, toro incluído, para tomar parte en uno de los carnavales más divertidos. Una vez más nuestro esfuerzo y empeño  se ve recompensado por el jurado, quien nos concede el segundo premio de batucadas.",
                     "pictures": {
                         "thumbnails": [
                             "img/gigs/thumbnails/carnaval_de_seca_2015__001.jpg",
@@ -87,11 +420,14 @@
             {
                 "title_ca": "Timbalada Ganxona",
                 "title_en": "Timbalada Ganxona",
+                "title_es": "Timbalada Ganxona",
                 "date_ca": "Sant Feliu de Guixols / 04 de Juliol de 2015",
                 "date_en": "Sant Feliu de Guixols / 04 July 2015",
+                "date_es": "Sant Feliu de Guixols / 04 de Julio 2015",
                 "content": {
                     "desc_ca": "Beirão Percussió participem en la primera edició del concurs de percussió de la Costa Brava, dins la IV edició de Timbalada Ganxona. D'un total de 20 grups, el jurat ens otorga el primer premi. Vivim una vetllada emotiva i emocionant, no només pel reconeixement a la nostra feina sinó per haver-la compartit amb els membres de la resta de bandes. ",
                     "desc_en": "Beirão Percussió takes part in the first edition of the Costa Brava's percussion competition, alongside the IV edition of Timbalada Ganxona. From a total of 20 bands, the judges decide that the first prize belongs to us.  We live an exciting and moving evening, not only because the acknowledgement to our work but because we got to share it with the rest of the bands.",
+                    "desc_es": "Participamos en la primera edición del concurso de percusión de la Costa Brava. De entre un total de 20 grupos el jurado nos concede el primer premio y vivimos una noche emotiva y emocionante, disfrutando del reconocimiento a nuestro trabajo junto con el resto de bandas.",
                     "pictures": {
                         "thumbnails": [
                             "img/gigs/thumbnails/ganxona_2015__001.jpg",
@@ -144,11 +480,14 @@
             {
                 "title_ca": "Port Aventura - nit blanca brasilera",
                 "title_en": "Port Aventura - brasilian night",
+                "title_es": "Port Aventura - noche blanca brasileña",
                 "date_ca": "Vila-Seca / 27 de Juny de 2015",
                 "date_en": "Vila-Seca / 27 June 2015",
+                "date_es": "Vila-Seca / 27 de Junio de 2015",
                 "content": {
                     "desc_ca": "Un cop més, Port Aventura torna a confiar en Beirão Percussió per omplir de música els espais del parc durant la nit blanca Brasilera.",
                     "desc_en": "Once again, Port Aventura trustes Beirão Percussió with filling their park with music during the brasilian night.",
+                    "desc_es": "Una vez más Port Aventura vuelve a confiar en nosotros para llenar de música los espacios del parque durante la noche blanca brasileña.",
                     "pictures": {
                         "thumbnails": [
                             "img/gigs/thumbnails/port_aventura_brasil_1.jpg",
@@ -200,11 +539,14 @@
             {
                 "title_ca": "Port Aventura - 20è aniversari",
                 "title_en": "Port Aventura - 20th anniversary",
+                "title_es": "Port Aventura - 20 aniversario",
                 "date_ca": "Vila-Seca / 01 de Maig de 2015",
                 "date_en": "Vila-Seca / 01 May 2015",
+                "date_es": "Vila-Seca / 01 de Mayo de 2015",
                 "content": {
                     "desc_ca": "En una data especial com aquesta, Port Aventura compta amb la nostra presència per animar la vetllada als usuaris del parc. Al llarg de tota la tarda-nit, oferim diversos passes en els diferents ambients del recinte, perqué més enllà de les atraccions, la seva estada sigui festiva en tots els aspectes.",
                     "desc_en": "In a special occasion like this one, Port Aventura relies on us to cheer its customers during the evening. We perform throught the different sets in the park from the afternoon until night come, in order to provide a joyful experience that goes beyond the park's rides.",
+                    "desc_es": "En esta fecha especial Port Aventura cuenta con nuestra presencia para animar la velada a los usuarios del parque. A lo largo de la tarde y noche ofrecemos varios pases en los distintos ambientes del recinto para que, más allá de las atracciones, su estancia sea festiva en todos los aspectos.",
                     "pictures": {
                         "thumbnails": [
                             "img/gigs/thumbnails/port_aventura_aniversari_2015_2.jpg",
@@ -226,11 +568,14 @@
             {
                 "title_ca": "2n Aniversari Beirão Percussió",
                 "title_en": "Beirão Percussió 2nd anniversary",
+                "title_es": "Beirão Percussió 2º aniversario",
                 "date_ca": "Barcelona / Sagrada Família  / 25 d'Abril de 2015",
                 "date_en": "Barcelona / Sagrada Família  / 25 April 2015",
+                "date_es": "Barcelona / Sagrada Família  / 25 de April de 2015",
                 "content": {
                     "desc_ca": "Amb motiu de l’aniversari, Beirão, amb la col·laboració de grups de percussió convidats, fem vibrar el nostre barri (Sagrada Família, Barcelona), amb ritmes plens de vida. La festa comença amb un cercavila per l’Avinguda Gaudí i finalitza amb espectacles estàtics davant l’emblemàtica Basílica.",
                     "desc_en": "To mark our anniversary, Beirão, with the collaboration of guest bands, rock our the neighborhood (Sagrada Família, Barcelona), with rythms full of life. The celebration starts with a parade alongside Gaudí Avenue and ends with the bands' performances in front of the emblematic Basilica.",
+                    "desc_es": "En motivo de nuestro aniversario, Beirão y los grupos invitados hacemos vibrar el barrio de la Sagrada Família con ritmos llenos de vida. La fiesta empieza con un pasacalles a lo largo de la Avenida Gaudí y finaliza con espectáculos estáticos ante la emblemática Basílica.",
                     "pictures": {
                         "thumbnails": [
                             "img/gigs/thumbnails/aniversari_2015_1.jpg",
@@ -258,11 +603,14 @@
             {
                 "title_ca": "Sant Medir",
                 "title_en": "Sant Medir",
+                "title_es": "Sant Medir",
                 "date_ca": "Barcelona / Gràcia / 03 de Març de 2015",
                 "date_en": "Barcelona / Gràcia / 03 March 2015",
+                "date_es": "Barcelona / Gràcia / 03 de Marzo de 2015",
                 "content": {
                     "desc_ca": "Dins la popular festa de Sant Medir, brindem la nostra música pel barri de Gràcia (Barcelona), acompanyant la 'Colla humorística' en la cercavila més dolça de l’any, on els carrers s’omplen de caramels i llaminadures amb el pas dels cavalls i les carrosses.",
                     "desc_en": "Within Sant Medir's popular festivity, we offer our music to Gràcia's neighborhood accompanying 'Colla humorística' during the sweetest parade of the year, where candy fills the streets alongside horses and carts.",
+                    "desc_es": "En esta popular fiesta del barrio de Gracia brindamos nuestra música acompañando a la Colla Humorística en el desfile más dulce del año, en el que las calles se llenan de caramelos al paso de caballos y carrozas.",
                     "pictures": {
                         "thumbnails": [
                             "img/gigs/thumbnails/st_medir_2015_1.jpg",
@@ -280,11 +628,14 @@
             {
                 "title_ca": "Any nou Xinès",
                 "title_en": "Chinese new year",
+                "title_es": "Año nuevo chino",
                 "date_ca": "Barcelona / 21 de Febrer de 2015",
                 "date_en": "Barcelona / 21 February 2015",
+                "date_es": "Barcelona / 21 de Febrero de 2015",
                 "content": {
                     "desc_ca": "Per segon any consecutiu, els organitzadors de l’Any Nou Xinès de Barcelona, han tornat a confiar en nosaltres per acompanyar-los i fer de la seva celebració un espectacle multicultural. Hem participat en la rua pels carrers de la ciutat, finalment, concloent amb un lluïment estàtic sobre l’escenari de l’Arc de Triomf.",
                     "desc_en": "For the second year in a row, the organization of Barcelona's Chinese new year truts us with turning their festivity in a multicultural event. We took part in the parade along the city's streets ending the event in a static show at Arc de Triomf.",
+                    "desc_es": "Por segundo año consecutivo los organizadores del año nuevo chino en Barcelona confian en nosotros para acompañarles y hacer de su celebración un espectáculo multicultural. Participamos en la rua finalizando con un espectáculo estático en el escenario de Arco de Triumfo.",
                     "pictures": {
                         "thumbnails": [
                             "img/gigs/thumbnails/any_nou_xines_2015_1.jpg",
@@ -304,11 +655,14 @@
             {
                 "title_ca": "Carnestoltes a Nou Barris",
                 "title_en": "Nou Barris' Carnival",
+                "title_es": "Carnaval de Nou Barris",
                 "date_ca": "Barcelona / Nou Barris / 14 de Febrer de 2015",
                 "date_en": "Barcelona / Nou Barris / 14 February 2015",
+                "date_es": "Barcelona / Nou Barris / 14 de Febrero de 2015",
                 "content": {
                     "desc_ca": "Carnaval és, per nosaltres, una època de molta activitat. Ens posem la nostra millor disfressa i no dubtem a sumar-nos a aquesta celebració, ja sigui acompanyant escoles, entitats de barri o festes privades. Enguany, sota l’aparença de “Super Beirãos” hem animat la rua de Roquetes, i, a continuació, la cercavila central de Nou Barris.",
                     "desc_en": "Carnival is for us a time of major activity. We put on our best costumes and join the celebration without hesitation, being by accompanying schools, local organizations, or private parties. This year, under the disguise of “Super Beirãos” we have liven up Roquetes parade followed by the main parade of Nou Barris.",
+                    "desc_es": "Carnaval es una época de gran actividad para el grupo. Enfundados en nuestro disfraz de superhéroes animamos la rúa del barrio de Roquetas y a continuación la rúa central del distrito de Nou Barris.",
                     "pictures": {
                         "thumbnails": [
                             "img/gigs/thumbnails/carnestoltes_nou_barris_2015_1.jpg",
@@ -329,8 +683,10 @@
             },{
                 "title_ca": "Correfoc de Santa Eulàlia",
                 "title_en": "Santa Eulàlia's correfoc",
+                "title_es": "Correfoc de Santa Eulália",
                 "date_ca": "Barcelona / Casc Antic / 07 de Febrer de 2015",
                 "date_en": "Barcelona / Casc Antic / 07 February 2015",
+                "date_es": "Barcelona / Casc Antic / 07 de February de 2015",
                 "content": {
                     "pictures": {
                         "thumbnails": [
@@ -345,20 +701,25 @@
             {
                 "title_ca": "Festival de la Infància",
                 "title_en": "Children's festival",
+                "title_es": "Salón de la infancia",
                 "date_ca": "Barcelona / Montjuïc / 03 de Gener de 2015",
                 "date_en": "Barcelona / Montjuïc / 03 January 2015",
+                "date_es": "Barcelona / Montjuïc / 03 de Enero de 2015",
                 "content": {
                     "desc_ca": "Toquem al Festival de la Infància de Barcelona, cobrint tot el recinte, per animar l’ambient i fer que tots els membres de la família puguin gaudir de la fira en tot moment.",
-                    "desc_en": "We perform at Barcelona's Children's festival, covering the whole venue, cheering up the mood and providing a show for all ages."
+                    "desc_en": "We perform at Barcelona's Children's festival, covering the whole venue, cheering up the mood and providing a show for all ages.",
+                    "desc_es": "Tocamos en el Festival de la Infancia de Barcelona, cubriendo todo el recinto, para animar el ambiente y que todos los miembros de la familia disfruten de la feria."
                 }
             },
             {
                 "title_ca": "I altres ...",
                 "title_en": "And more ...",
+                "title_es": "Y más ...",
                 "date_ca": "",
                 "content": {
                     "desc_ca": "Participem en molts actes, com la celebració del centenari de l'escola Pompeu Fabra, a Badalona, etc.",
-                    "desc_en": "We take part in more events such as the celebration of the 100th anniversary of Pompeu Fabra school, at Badalona, etc."
+                    "desc_en": "We take part in more events such as the celebration of the 100th anniversary of Pompeu Fabra school, at Badalona, etc.",
+                    "desc_es": "Participamos en muchos otros eventos, como el centenario del colegio Pompeu Fabra de Badalona, etc."
                 }
             }
         ]
@@ -556,7 +917,7 @@
                 "date_en": "Rubí / Barcelona / Sants / 27 and 28 de February and 1 March de 2014",
                 "content": {
                     "desc_ca": "Arribada del rei Carnestoltes a Sants, rues a les escoles Ernest Lluch i Sagrada Família, rua infantil a Sants i rua de carnaval a Rubí.",
-                    "desc_ca": "Welcoming the Carnival's king to the neighborhood of Sants, parades for the schools of Ernest Lluch and Sagrada Família, children's parade at Sants and main parade at the city of Rubí."
+                    "desc_en": "Welcoming the Carnival's king to the neighborhood of Sants, parades for the schools of Ernest Lluch and Sagrada Família, children's parade at Sants and main parade at the city of Rubí."
                 }
             },
             {
@@ -596,7 +957,7 @@
     },
     {
         "year": 2013,
-        "ngigs": 8,
+        "ngigs": 25,
         "coverpic": "img/2013.jpg",
         "gigs": [
             {
