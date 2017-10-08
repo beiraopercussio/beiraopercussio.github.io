@@ -1,7 +1,7 @@
-﻿﻿[
+﻿[
 	 {
 	 	 "year": 2017,
-	 	 "ngigs": 18,
+	 	 "ngigs": 25,
         "coverpic": "img/2017.jpg",
         "gigs": [
             {
@@ -14,7 +14,19 @@
                 "content": {
                     "desc_ca": "Com cada any, toquem per les festes majors de Barcelona. Omplim de ritme i dansa els carrers més cèntrics de la nostra bonica ciutat.",
                     "desc_en": "...",
-                    "desc_es": "Como cada año, tocamos en las Fiestas Mayores de Barcelona. Llenamos de ritmo y danza las calles más céntricas de nuestra bonita ciudad."
+                    "desc_es": "Como cada año, tocamos en las Fiestas Mayores de Barcelona. Llenamos de ritmo y danza las calles más céntricas de nuestra bonita ciudad.",
+                    "pictures": {
+                        "thumbnails": [
+                           "img/gigs/fullsize/Merce_2017_1.JPG",
+                           "img/gigs/fullsize/Merce_2017_2.JPG",
+                           "img/gigs/fullsize/Merce_2017_3.JPG"
+                        ],
+                        "fullsize": [
+                           "img/gigs/fullsize/Merce_2017_1.JPG",
+                           "img/gigs/fullsize/Merce_2017_2.JPG",
+                           "img/gigs/fullsize/Merce_2017_3.JPG"
+                        ]
+                    }
                 }
             },
             {
@@ -26,7 +38,21 @@
                 "content": {
                     "desc_ca": "Tornem a la festa més popular de la Barceloneta!! Seguim portant l’alegria i la festa, fent grans “temazos” acompanyats de vents!",
                     "desc_en": "...",
-                    "desc_es": "Volvemos a la fiesta más popular de la Barceloneta! Seguimos llevando la alegria y la fiesta, tocando grandes “temazos” acompañados de vientos!"
+                    "desc_es": "Volvemos a la fiesta más popular de la Barceloneta! Seguimos llevando la alegria y la fiesta, tocando grandes “temazos” acompañados de vientos!",
+                    "pictures": {
+                        "thumbnails": [
+                           "img/gigs/fullsize/Coros_2017_1.jpg",
+                           "img/gigs/fullsize/Coros_2017_2.jpg",
+                           "img/gigs/fullsize/Coros_2017_3.jpg",
+                           "img/gigs/fullsize/Coros_2017_4.jpg"
+                        ],
+                        "fullsize": [
+                           "img/gigs/fullsize/Coros_2017_1.jpg",
+                           "img/gigs/fullsize/Coros_2017_2.jpg",
+                           "img/gigs/fullsize/Coros_2017_3.jpg",
+                           "img/gigs/fullsize/Coros_2017_4.jpg"
+                        ]
+                    }
                 }                   
             },
             {
@@ -52,7 +78,19 @@
                 "content": {
                     "desc_ca": "Estem d’aniversari!! I ho celebrem al nostre estimat barri. Aquesta vegada, convidem Batida do Tambor i Batubaroa. Un gran dia de sol i percussió pels carrers de la Sagrada Família.",
                     "desc_en": "...",
-                    "desc_es": "Estamos de Aniversario!! Y lo celebramos en nuestro querido barrio. En esta ocasión, invitamos a Batida do Tambor y Batubaroa. Un gran día de sol y percusión por las calles de la Sagrada Família."
+                    "desc_es": "Estamos de Aniversario!! Y lo celebramos en nuestro querido barrio. En esta ocasión, invitamos a Batida do Tambor y Batubaroa. Un gran día de sol y percusión por las calles de la Sagrada Família.",
+                    "pictures": {
+                        "thumbnails": [
+                           "img/gigs/fullsize/Aniversari_2017_1.jpg",
+                           "img/gigs/fullsize/Aniversari_2017_2.jpg",
+                           "img/gigs/fullsize/Aniversari_2017_3.jpg"
+                        ],
+                        "fullsize": [
+                           "img/gigs/fullsize/Aniversari_2017_1.jpg",
+                           "img/gigs/fullsize/Aniversari_2017_2.jpg",
+                           "img/gigs/fullsize/Aniversari_2017_3.jpg"
+                        ]
+                    }
                 }
             },
             {
@@ -65,7 +103,19 @@
                 "content": {
                     "desc_ca": "I seguim de Carnaval...ara més a prop de casa i de la platja. Tornem al barri de la Barceloneta, acompanyant de nou el Coro dels Afortunats a la rua de la Carnavalada, la festa de Carnaval d’aquest barri barceloní. Festa, gresca...i una bona preparació per Coros!",
                     "desc_en": "...",
-                    "desc_es": "I seguimos de Carnaval...ahora más cerca de casa y de la playa. Volvemos al barrio de la Barceloneta, acompañando de nuevo al Coro de “Els Afortunats” en la rua de la Carnavalada, la fiesta de Carnaval de este barrio barcelonés. Fiesta, alegria…. Y una buena preparación para los Coros!"
+                    "desc_es": "I seguimos de Carnaval...ahora más cerca de casa y de la playa. Volvemos al barrio de la Barceloneta, acompañando de nuevo al Coro de “Els Afortunats” en la rua de la Carnavalada, la fiesta de Carnaval de este barrio barcelonés. Fiesta, alegria…. Y una buena preparación para los Coros!",
+                    "pictures": {
+                        "thumbnails": [
+                           "img/gigs/fullsize/Carnavalada_2017_1.jpg",
+                           "img/gigs/fullsize/Carnavalada_2017_2.jpg",
+                           "img/gigs/fullsize/Carnavalada_2017_3.jpg"
+                        ],
+                        "fullsize": [
+                           "img/gigs/fullsize/Carnavalada_2017_1.jpg",
+                           "img/gigs/fullsize/Carnavalada_2017_2.jpg",
+                           "img/gigs/fullsize/Carnavalada_2017_3.jpg"
+                        ]
+                    }
                 }
             },
             {
